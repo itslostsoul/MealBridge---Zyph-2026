@@ -2,7 +2,7 @@
 
 "Bridging the Gap Between Surplus Food & Zero Hunger"
 
-Project Overview
+Project Overview:
 MealBridge is a hyperlocal platform designed for the SRM Ramapuram campus to tackle food wastage in messes and canteens. It provides a real-time bridge between food donors (messes/canteens) and recipients (students/NGOs).
 
 The Problem
